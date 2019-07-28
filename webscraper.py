@@ -4,7 +4,8 @@
 # ------------------------------------------------------------------------------
 
 # Packages
-import webdriver
+from selenium import webdriver
+import nltk
 
 # Functions
 
