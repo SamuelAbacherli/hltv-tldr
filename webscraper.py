@@ -17,7 +17,6 @@ from keras.layers import Dense
 from keras.layers import Flatten
 from keras.layers import Embedding
 
-# <codecell>
 # Functions
 
 # Open chrome
